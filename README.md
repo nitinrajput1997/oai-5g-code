@@ -1,5 +1,5 @@
 # oai-5g-code
 
-### Ping Test
+### Ping Testing
 
-### Iperf test
+### Iperf testing
